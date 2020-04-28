@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TestFCMMessaging</string>
+    <string name="fcmSendUrl">https://fcm.googleapis.com/fcm/send</string>
+    <string name="fcmApiKey">AAAA4Zouuyk:APA91bHzkKDNktao8goXvQGkx0vZNgV0eLmZQ_q_rM5ZPY3yTjrUDktPnNpPlZTWtPnO0x9KG20tI0hOVJ0ejKHRW46iyt9RHtpZAfQW6yRSIg_3ZZuNl12g7T_Lcp73dM27os_TvEvU</string>
 </resources>
