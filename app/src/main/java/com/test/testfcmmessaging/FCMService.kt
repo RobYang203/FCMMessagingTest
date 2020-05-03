@@ -24,7 +24,6 @@ class FCMService: FirebaseMessagingService() {
     override fun onMessageReceived(rm: RemoteMessage) {
         super.onMessageReceived(rm)
         val d = rm.data
-
         val workData = Data.Builder()
             .putString("json" , d?.get("body"))
             .build()
